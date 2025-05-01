@@ -88,7 +88,7 @@ files.download(output_path)
 
 ---
 
-## [Usage Example](https://drive.google.com/file/d/1wzoTGsyuu1jL5jDT4uyTsTm9eJyAN48r/view?usp=sharing)
+## [Usage Example Video, Click on the link](https://drive.google.com/file/d/1wzoTGsyuu1jL5jDT4uyTsTm9eJyAN48r/view?usp=sharing)
 
 ```python
 # In a Colab cell:
